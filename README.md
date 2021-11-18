@@ -1,6 +1,10 @@
 ### Hi there 👋
 💬  Ask me about anything
 
+
+[![Saganic's GitHub stats](https://github-readme-stats.vercel.app/api?username=saganic)](https://github.com/saganic/github-readme-stats)
+
+
 <!--
 **Saganic/Saganic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
