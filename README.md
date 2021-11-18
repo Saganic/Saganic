@@ -2,7 +2,7 @@
 💬  Ask me about anything
 
 
-[![Saganic's GitHub stats](https://github-readme-stats.vercel.app/api?username=saganic)](https://github.com/saganic/github-readme-stats)
+[![Saganic's GitHub stats](https://github-readme-stats.vercel.app/api?username=saganic?theme=synthwave)](https://github.com/saganic/github-readme-stats)
 
 
 <!--
