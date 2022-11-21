@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Saganic's GitHub stats](https://github-readme-stats.vercel.app/api?username=saganic&theme=synthwave&show_icons=true)](https://github.com/saganic)
 
 
 <!--
