@@ -1,9 +1,13 @@
-### Howdy 👋
+## Howdy 👋
 - 🔭 I’m currently working on [Cudo Compute](https://www.cudocompute.com/), [IcePanel](https://icepanel.io) and [Mirrorful](https://mirrorful.com/)
 - 🌱 I’m currently learning about [Go](https://go.dev/), [Rust](https://www.rust-lang.org/) and product development
 - 👯 I’m looking to collaborate on anything useful, [hmu](mailto:chris@saganic.co.uk)
 - ❤️ I love working on projects that people find useful
-- [Vue](https://vuejs.org/) and [TypeScript](https://www.typescriptlang.org/) advocate
+
+### Favourite langs, frameworks & platforms (today)
+
+![Langs and frameworks](https://skillicons.dev/icons?i=vue,nuxt,ts,react,next,nodejs,vercel,gcp,netlify)
+
 
 <!--
 **Saganic/Saganic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
