@@ -14,7 +14,7 @@
 [![Back end](https://skillicons.dev/icons?i=ts,go,postgres,redis)](https://github.com/Saganic)
 
 ### Infra
-[![Back end](https://skillicons.dev/icons?i=cf,vercel,aws,gcp)](https://github.com/Saganic)
+[![Back end](https://skillicons.dev/icons?i=cf,vercel,aws,gcp,docker,k8s)](https://github.com/Saganic)
 
 
 
