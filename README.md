@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on anything useful, [hmu](mailto:chris@saganic.co.uk)
 - ❤️ I love working on projects that people find useful
 
-### Favourite langs, frameworks & platforms (today)
+### Stuff I'm using
 
 [![Langs and frameworks](https://skillicons.dev/icons?i=vue,nuxt,react,next,tailwind,ts,go,postgres,redis,vercel,aws,gcp)](https://github.com/Saganic)
 
