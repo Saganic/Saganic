@@ -6,7 +6,7 @@
 
 ### Favourite langs, frameworks & platforms (today)
 
-[![Langs and frameworks](https://skillicons.dev/icons?i=vue,nuxt,react,next,tailwind,ts,go,vercel,gcp,netlify)](https://github.com/Saganic)
+[![Langs and frameworks](https://skillicons.dev/icons?i=vue,nuxt,react,next,tailwind,ts,go,vercel,aws,gcp)](https://github.com/Saganic)
 
 
 <!--
