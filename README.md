@@ -1,5 +1,5 @@
 ## Howdy 👋
-- 🔭 I’m currently working on [Cudo Compute](https://www.cudocompute.com/)
+- 🔭 I’m currently working at [Cytix](https://cytix.io/)
 - 🌱 I’m currently learning about [Go](https://go.dev/), [Rust](https://www.rust-lang.org/) and product development
 - 👯 I’m looking to collaborate on anything useful, [hmu](mailto:chris@saganic.co.uk)
 - ❤️ I love working on projects that people find useful
